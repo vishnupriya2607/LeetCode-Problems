@@ -14,22 +14,14 @@ class Solution {
             if(stack.size()>0)
             {
             if(x==')'&& stack.peek()=='(')
-            {
                 stack.pop();
-            }
             if(x=='}'&& stack.peek()=='{')
-            {
                 stack.pop();
-            }
             if(x==']'&& stack.peek()=='[')
-            {
                 stack.pop();
-            }
             }
             else
-            {
-                return false;
-            }
+              return false;
         }
 if(stack.size()==0&&c==s.length()/2)
 return true;
