@@ -11,19 +11,24 @@ class Solution {
                 stack.push(x);
                 c++;
             }
+            else
+            {
             if(stack.size()>0)
             {
             if(x==')'&& stack.peek()=='(')
                 stack.pop();
-            if(x=='}'&& stack.peek()=='{')
+            else if(x=='}'&& stack.peek()=='{')
                 stack.pop();
-            if(x==']'&& stack.peek()=='[')
+           else if(x==']'&& stack.peek()=='[')
                 stack.pop();
+                else
+                return false;
             }
             else
               return false;
+            }
         }
-if(stack.size()==0&&c==s.length()/2)
+if(stack.size()==0)
 return true;
 else
 return false;
