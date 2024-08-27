@@ -8,7 +8,6 @@ public class Solution {
         int prevEnd = intervals[0][1];
 
         for (int i = 1; i < intervals.length; i++) {
-            System.out.println(prevEnd);
             if (prevEnd > intervals[i][0]) {
                 res++;
             } else {
