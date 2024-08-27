@@ -5,8 +5,6 @@ class Solution {
         {
             for(int j=0;j<nums2.length;j++)
             {
-                
-               
                 if(nums1[i]==nums2[j])
                 {
                     if( j<nums2.length-1)
@@ -20,17 +18,12 @@ class Solution {
                             break;
                             }
                             else
-                            {
                                 arr[i]=-1;
-                            }
                            
                         }
                     }
                     else
-                    {
                         arr[i]=-1;
-                        
-                    }
                 
                 }
                 
