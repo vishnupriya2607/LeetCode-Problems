@@ -7,8 +7,6 @@ class Solution {
             {
                 if(nums1[i]==nums2[j])
                 {
-                    if( j<nums2.length-1)
-                    {
                         for(int k=j;k<nums2.length;k++)
                         {
 arr[i]=-1;
@@ -21,18 +19,13 @@ arr[i]=-1;
                            
                         }
                     }
-                    else
-                        arr[i]=-1;
-                
+                    
                 }
                 
                
             }
-        }
-        for(int i=0;i<nums1.length;i++)
-        {
-            System.out.println(arr[i]);
-        }
+        
+       
         return arr;
     }
 }
