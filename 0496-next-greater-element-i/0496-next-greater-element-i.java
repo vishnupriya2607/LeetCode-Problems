@@ -11,14 +11,13 @@ class Solution {
                     {
                         for(int k=j;k<nums2.length;k++)
                         {
-
-                            if(k<nums2.length&&nums1[i]<nums2[k])
+arr[i]=-1;
+                            if(nums1[i]<nums2[k])
                             {
                             arr[i]=nums2[k];
                             break;
                             }
-                            else
-                                arr[i]=-1;
+                           
                            
                         }
                     }
