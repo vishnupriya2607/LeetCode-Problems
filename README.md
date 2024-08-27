@@ -25,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0496-next-greater-element-i](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0496-next-greater-element-i) |
 | [0932-monotonic-array](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0932-monotonic-array) |
+| [1325-path-with-maximum-probability](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/1325-path-with-maximum-probability) |
 ## Two Pointers
 |  |
 | ------- |
@@ -101,6 +102,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0347-top-k-frequent-elements) |
+| [1325-path-with-maximum-probability](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/1325-path-with-maximum-probability) |
 ## Quickselect
 |  |
 | ------- |
@@ -114,4 +116,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0496-next-greater-element-i) |
+## Graph
+|  |
+| ------- |
+| [1325-path-with-maximum-probability](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/1325-path-with-maximum-probability) |
+## Shortest Path
+|  |
+| ------- |
+| [1325-path-with-maximum-probability](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/1325-path-with-maximum-probability) |
 <!---LeetCode Topics End-->
