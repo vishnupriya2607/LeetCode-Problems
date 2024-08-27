@@ -7,9 +7,7 @@ class Solution {
         {
             int[] interval = intervals[i];
             if(prev[1]>=interval[0])
-            {
                 prev[1] = Math.max(prev[1], interval[1]);
-            }
             else
             {
                 merged.add(prev);
@@ -17,7 +15,6 @@ class Solution {
             }
         }
         merged.add(prev);
-
         return merged.toArray(new int[merged.size()][]);
     }
 }
