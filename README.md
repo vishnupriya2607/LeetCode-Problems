@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0039-combination-sum) |
 | [0056-merge-intervals](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0056-merge-intervals) |
 | [0189-rotate-array](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0215-kth-largest-element-in-an-array) |
@@ -137,4 +138,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0022-generate-parentheses) |
+| [0039-combination-sum](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0039-combination-sum) |
 <!---LeetCode Topics End-->
