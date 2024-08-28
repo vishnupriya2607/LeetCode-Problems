@@ -24,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0435-non-overlapping-intervals](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0496-next-greater-element-i](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0496-next-greater-element-i) |
+| [0909-stone-game](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0909-stone-game) |
 | [0932-monotonic-array](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0932-monotonic-array) |
 | [1325-path-with-maximum-probability](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/1325-path-with-maximum-probability) |
 ## Two Pointers
@@ -52,6 +53,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0189-rotate-array](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0189-rotate-array) |
 | [0592-fraction-addition-and-subtraction](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0592-fraction-addition-and-subtraction) |
+| [0909-stone-game](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0909-stone-game) |
 ## Stack
 |  |
 | ------- |
@@ -87,6 +89,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0435-non-overlapping-intervals](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0435-non-overlapping-intervals) |
+| [0909-stone-game](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0909-stone-game) |
 ## Greedy
 |  |
 | ------- |
@@ -124,4 +127,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1325-path-with-maximum-probability](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/1325-path-with-maximum-probability) |
+## Game Theory
+|  |
+| ------- |
+| [0909-stone-game](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0909-stone-game) |
 <!---LeetCode Topics End-->
