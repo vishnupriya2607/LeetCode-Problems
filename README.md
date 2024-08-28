@@ -32,6 +32,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0909-stone-game](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0909-stone-game) |
 | [0932-monotonic-array](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0932-monotonic-array) |
 | [1325-path-with-maximum-probability](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/1325-path-with-maximum-probability) |
+| [2035-count-sub-islands](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/2035-count-sub-islands) |
 ## Two Pointers
 |  |
 | ------- |
@@ -88,6 +89,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0145-binary-tree-postorder-traversal](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0145-binary-tree-postorder-traversal) |
+| [2035-count-sub-islands](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/2035-count-sub-islands) |
 ## Binary Tree
 |  |
 | ------- |
@@ -149,8 +151,17 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0079-word-search](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0079-word-search) |
+| [2035-count-sub-islands](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/2035-count-sub-islands) |
 ## Recursion
 |  |
 | ------- |
 | [0390-elimination-game](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0390-elimination-game) |
+## Breadth-First Search
+|  |
+| ------- |
+| [2035-count-sub-islands](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/2035-count-sub-islands) |
+## Union Find
+|  |
+| ------- |
+| [2035-count-sub-islands](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/2035-count-sub-islands) |
 <!---LeetCode Topics End-->
