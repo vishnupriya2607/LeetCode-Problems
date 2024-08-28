@@ -5,13 +5,13 @@ class Solution {
         fun(0,arr,candidates,target,ans);
         return ans;
     }
-    public void fun(int ind,List<Integer> arr,int[] candidates,int target,List<List<Integer>> ans)
+    public void fun(int ind,List<Integer> arr,int []candidates,int target,List<List<Integer>> ans)
     {
         if(ind==candidates.length)
         {
             if(target==0)
             {
-                ans.add(new ArrayList<>(arr));
+            ans.add(new ArrayList<>(arr));
             }
             return;
         }
