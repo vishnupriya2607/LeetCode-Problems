@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0014-longest-common-prefix](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0022-generate-parentheses) |
 | [0038-count-and-say](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0038-count-and-say) |
 | [0058-length-of-last-word](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0125-valid-palindrome) |
@@ -88,6 +89,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0022-generate-parentheses) |
 | [0435-non-overlapping-intervals](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0435-non-overlapping-intervals) |
 | [0909-stone-game](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0909-stone-game) |
 ## Greedy
@@ -131,4 +133,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0909-stone-game](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0909-stone-game) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
