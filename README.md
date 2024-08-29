@@ -62,6 +62,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0002-add-two-numbers) |
+| [0050-powx-n](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0189-rotate-array) |
 | [0390-elimination-game](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0390-elimination-game) |
 | [0592-fraction-addition-and-subtraction](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0592-fraction-addition-and-subtraction) |
@@ -163,6 +164,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0002-add-two-numbers) |
+| [0050-powx-n](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0050-powx-n) |
 | [0390-elimination-game](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0390-elimination-game) |
 ## Breadth-First Search
 |  |
