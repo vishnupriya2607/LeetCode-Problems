@@ -46,6 +46,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0242-valid-anagram](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0496-next-greater-element-i) |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1297-maximum-number-of-balloons](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/1297-maximum-number-of-balloons) |
 ## Sorting
 |  |
@@ -91,6 +92,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0145-binary-tree-postorder-traversal](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0145-binary-tree-postorder-traversal) |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [2035-count-sub-islands](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/2035-count-sub-islands) |
 ## Binary Tree
 |  |
@@ -134,6 +136,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Graph
 |  |
 | ------- |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1325-path-with-maximum-probability](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/1325-path-with-maximum-probability) |
 ## Shortest Path
 |  |
@@ -167,6 +170,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Union Find
 |  |
 | ------- |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [2035-count-sub-islands](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/2035-count-sub-islands) |
 ## Linked List
 |  |
