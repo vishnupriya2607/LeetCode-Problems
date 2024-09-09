@@ -63,6 +63,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0002-add-two-numbers](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0050-powx-n) |
+| [0070-climbing-stairs](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0189-rotate-array) |
 | [0390-elimination-game](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0390-elimination-game) |
 | [0592-fraction-addition-and-subtraction](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0592-fraction-addition-and-subtraction) |
@@ -104,6 +105,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0022-generate-parentheses) |
+| [0070-climbing-stairs](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0070-climbing-stairs) |
 | [0435-non-overlapping-intervals](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0435-non-overlapping-intervals) |
 | [0909-stone-game](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0909-stone-game) |
 ## Greedy
@@ -179,4 +181,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0002-add-two-numbers) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
