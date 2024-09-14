@@ -1,6 +1,6 @@
 class Solution {
     public int maxProduct(int[] nums) {
-        int m1=0,m2=0;
+        int m1=1,m2=1;
         for(int i=0;i<nums.length;i++)
         {
             if(m1<=nums[i])
