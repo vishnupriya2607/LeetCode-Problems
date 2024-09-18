@@ -1,11 +1,10 @@
 class Solution {
     public int trap(int[] height) {
         int n=height.length;
-        int sum=0;
         int left[]=new int[n];
         int right[]=new int[n];
-        int lef=0;
-        int rig=0;
+        int lef=0,rig=0,sum=0;
+       
         for(int i=0;i<n;i++)
         {
             lef=Math.max(lef,height[i]);
@@ -16,7 +15,6 @@ class Solution {
             rig=Math.max(rig,height[i]);
             right[i]=rig;
         }
-       
         for(int i=0;i<n;i++)
         {
             sum=sum+(Math.min(right[i],left[i])-height[i]);
