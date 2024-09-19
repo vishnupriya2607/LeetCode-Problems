@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0125-valid-palindrome](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0242-valid-anagram) |
 | [0592-fraction-addition-and-subtraction](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0592-fraction-addition-and-subtraction) |
+| [0874-backspace-string-compare](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0874-backspace-string-compare) |
 | [1297-maximum-number-of-balloons](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/1297-maximum-number-of-balloons) |
 ## Array
 |  |
@@ -51,6 +52,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0125-valid-palindrome](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0283-move-zeroes) |
+| [0874-backspace-string-compare](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0874-backspace-string-compare) |
 ## Hash Table
 |  |
 | ------- |
@@ -90,6 +92,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0145-binary-tree-postorder-traversal](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0496-next-greater-element-i](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0682-baseball-game) |
+| [0874-backspace-string-compare](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0874-backspace-string-compare) |
 ## Trie
 |  |
 | ------- |
@@ -104,6 +107,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0592-fraction-addition-and-subtraction](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0592-fraction-addition-and-subtraction) |
 | [0682-baseball-game](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0682-baseball-game) |
+| [0874-backspace-string-compare](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0874-backspace-string-compare) |
 ## Tree
 |  |
 | ------- |
