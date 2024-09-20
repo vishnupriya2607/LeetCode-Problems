@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0079-word-search](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0242-valid-anagram) |
+| [0459-repeated-substring-pattern](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0459-repeated-substring-pattern) |
 | [0592-fraction-addition-and-subtraction](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0592-fraction-addition-and-subtraction) |
 | [0874-backspace-string-compare](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0874-backspace-string-compare) |
 | [1297-maximum-number-of-balloons](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/1297-maximum-number-of-balloons) |
@@ -223,4 +224,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0238-product-of-array-except-self) |
+## String Matching
+|  |
+| ------- |
+| [0459-repeated-substring-pattern](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0459-repeated-substring-pattern) |
 <!---LeetCode Topics End-->
