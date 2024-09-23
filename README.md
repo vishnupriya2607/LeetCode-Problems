@@ -63,6 +63,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0242-valid-anagram](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0347-top-k-frequent-elements) |
+| [0398-random-pick-index](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0398-random-pick-index) |
 | [0496-next-greater-element-i](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0496-next-greater-element-i) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1297-maximum-number-of-balloons](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/1297-maximum-number-of-balloons) |
@@ -89,6 +90,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0258-add-digits](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0268-missing-number) |
 | [0390-elimination-game](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0390-elimination-game) |
+| [0398-random-pick-index](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0398-random-pick-index) |
 | [0592-fraction-addition-and-subtraction](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0592-fraction-addition-and-subtraction) |
 | [0909-stone-game](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0909-stone-game) |
 ## Stack
@@ -244,4 +246,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0258-add-digits) |
+## Reservoir Sampling
+|  |
+| ------- |
+| [0398-random-pick-index](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0398-random-pick-index) |
+## Randomized
+|  |
+| ------- |
+| [0398-random-pick-index](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0398-random-pick-index) |
 <!---LeetCode Topics End-->
