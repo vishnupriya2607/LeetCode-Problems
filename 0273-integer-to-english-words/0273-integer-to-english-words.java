@@ -6,26 +6,38 @@ class Solution {
     String[] thousands = {"", "Thousand", "Million", "Billion"};
 
     public String numberToWords(int num) {
-        if (num == 0) return "Zero";
-
-        int i = 0;
-        String words = "";
-
-        while (num > 0) {
-            if (num % 1000 != 0) {
-                words = helper(num % 1000) + thousands[i] + " " + words;
+        int i=0;
+        String word="";
+        if(num==0)
+        {
+            return "Zero";
+        }
+        while(num!=0)
+        {
+            if(num%1000!=0)
+            {
+                word=helper(num%1000)+thousands[i]+" "+word;
             }
-            num /= 1000;
+            num=num/1000;
             i++;
         }
-
-        return words.trim();
+        return word.trim();
     }
-
-    private String helper(int num) {
-        if (num == 0) return "";
-        else if (num < 20) return ones[num] + " ";
-        else if (num < 100) return tens[num / 10] + " " + helper(num % 10);
-        else return ones[num / 100] + " Hundred " + helper(num % 100);
+    public String helper(int num)
+    {
+        if(num==0)
+        return "";
+        if(num<20)
+        {
+return ones[num]+" ";
+        }
+        else if(num<100)
+        {
+            return tens[num/10]+" "+helper(num%10);
+        }
+        else 
+        {
+            return ones[num/100]+" Hundred "+helper(num%100);
+        }
     }
 }
