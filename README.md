@@ -91,6 +91,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0268-missing-number) |
 | [0390-elimination-game](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0390-elimination-game) |
 | [0398-random-pick-index](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0398-random-pick-index) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0592-fraction-addition-and-subtraction](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0592-fraction-addition-and-subtraction) |
 | [0909-stone-game](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0909-stone-game) |
 ## Stack
@@ -242,6 +243,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0268-missing-number) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0405-convert-a-number-to-hexadecimal) |
 ## Number Theory
 |  |
 | ------- |
