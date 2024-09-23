@@ -96,6 +96,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0390-elimination-game](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0390-elimination-game) |
 | [0398-random-pick-index](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0398-random-pick-index) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0464-can-i-win](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0464-can-i-win) |
 | [0592-fraction-addition-and-subtraction](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0592-fraction-addition-and-subtraction) |
 | [0909-stone-game](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0909-stone-game) |
 ## Stack
@@ -146,6 +147,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0264-ugly-number-ii](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0264-ugly-number-ii) |
 | [0435-non-overlapping-intervals](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0435-non-overlapping-intervals) |
+| [0464-can-i-win](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0464-can-i-win) |
 | [0909-stone-game](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0909-stone-game) |
 ## Greedy
 |  |
@@ -191,6 +193,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Game Theory
 |  |
 | ------- |
+| [0464-can-i-win](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0464-can-i-win) |
 | [0909-stone-game](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0909-stone-game) |
 ## Backtracking
 |  |
@@ -228,6 +231,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0070-climbing-stairs) |
+| [0464-can-i-win](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0464-can-i-win) |
 ## Binary Search
 |  |
 | ------- |
@@ -251,6 +255,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0268-missing-number](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0268-missing-number) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0464-can-i-win](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0464-can-i-win) |
 ## Number Theory
 |  |
 | ------- |
@@ -263,4 +268,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0398-random-pick-index](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0398-random-pick-index) |
+## Bitmask
+|  |
+| ------- |
+| [0464-can-i-win](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0464-can-i-win) |
 <!---LeetCode Topics End-->
