@@ -16,8 +16,7 @@ class Solution {
 
 
         }
-        for(int i=s;i<=e;i++)
-        System.out.println(nums[i]);
+        
         return max;
     }
 }
