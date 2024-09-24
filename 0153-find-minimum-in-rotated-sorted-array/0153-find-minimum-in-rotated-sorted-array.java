@@ -5,7 +5,6 @@ class Solution {
         while(l<r)
         {
             int mid=l+(r-l)/2;
-            System.out.println(nums[mid]);
             if(nums[mid]>=nums[l] && nums[mid+1]<nums[l])
             return nums[mid+1];
             else if(nums[mid]<nums[l] && nums[mid-1]>nums[l])
