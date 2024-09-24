@@ -6,6 +6,8 @@ class Solution {
             if(nums[i] <min)
             {
                 min=nums[i];
+                
+                break;
             }
         }return min;
     }
