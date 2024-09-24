@@ -14,10 +14,6 @@ class Solution {
             else if (nums[mid] > nums[r]) {
                 l = mid + 1;
             } 
-          
-            else {
-                r--;
-            }
         }
         
         return nums[l]; 
