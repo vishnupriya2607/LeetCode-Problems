@@ -36,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0189-rotate-array](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0238-product-of-array-except-self) |
@@ -245,6 +246,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0035-search-insert-position](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0035-search-insert-position) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0268-missing-number](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0268-missing-number) |
 | [0374-guess-number-higher-or-lower](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0374-guess-number-higher-or-lower) |
 | [0400-nth-digit](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0400-nth-digit) |
