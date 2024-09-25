@@ -19,7 +19,6 @@ class Solution {
                 return false;
             }
             map.put(s.charAt(i),t.charAt(i));
-            
         }
         return true;
     }
