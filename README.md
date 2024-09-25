@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0125-valid-palindrome](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0179-largest-number) |
+| [0205-isomorphic-strings](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0242-valid-anagram) |
 | [0273-integer-to-english-words](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0273-integer-to-english-words) |
 | [0290-word-pattern](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0290-word-pattern) |
@@ -77,6 +78,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0001-two-sum) |
+| [0205-isomorphic-strings](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0242-valid-anagram) |
 | [0264-ugly-number-ii](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0264-ugly-number-ii) |
