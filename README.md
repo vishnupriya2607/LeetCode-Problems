@@ -62,6 +62,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0496-next-greater-element-i](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0682-baseball-game) |
+| [0729-my-calendar-i](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0729-my-calendar-i) |
 | [0909-stone-game](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0909-stone-game) |
 | [0932-monotonic-array](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0932-monotonic-array) |
 | [1325-path-with-maximum-probability](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/1325-path-with-maximum-probability) |
@@ -289,6 +290,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0350-intersection-of-two-arrays-ii](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0374-guess-number-higher-or-lower](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0374-guess-number-higher-or-lower) |
 | [0400-nth-digit](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0400-nth-digit) |
+| [0729-my-calendar-i](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0729-my-calendar-i) |
 ## Interactive
 |  |
 | ------- |
@@ -336,4 +338,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0303-range-sum-query-immutable) |
+| [0729-my-calendar-i](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0729-my-calendar-i) |
+## Segment Tree
+|  |
+| ------- |
+| [0729-my-calendar-i](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0729-my-calendar-i) |
+## Ordered Set
+|  |
+| ------- |
+| [0729-my-calendar-i](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0729-my-calendar-i) |
 <!---LeetCode Topics End-->
