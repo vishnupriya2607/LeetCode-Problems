@@ -1,46 +1,35 @@
 class Solution {
     public int[] intersect(int[] nums1, int[] nums2) {
+        Arrays.sort(nums1);
+        Arrays.sort(nums2);
         int len1=nums1.length;
         int len2=nums2.length;
-      
-            List<Integer> li=new ArrayList<>();
-        if(len1<=len2)
+        List<Integer> li=new ArrayList<>();
+        int i=0,j=0;
+        while(i<len1 && j<len2)
         {
-            for(int i=0;i<nums1.length;i++)
-            {
-                for(int j=0;j<nums2.length;j++)
-                {
-                    if(nums1[i]==nums2[j])
-                    {
-                        nums2[j]=-1;
-                        li.add(nums1[i]);
-                        break;
-                    }
-                }
-            }
+if(nums1[i]<nums2[j])
+{
+    i++;
+}
+else if(nums1[i]>nums2[j])
+{
+    j++;
+}
+else if( nums1[i]==nums2[j])
+{
+    li.add(nums1[i]);
+    i++;
+    j++;
+}
         }
-        else
-        {
-            for(int i=0;i<nums2.length;i++)
-            {
-                for(int j=0;j<nums1.length;j++)
-                {
-                    if(nums2[i]==nums1[j])
-                    {
-                        nums1[j]=-1;
-                        li.add(nums2[i]);
-                        break;
-                    }
-                }
-            }
-
-        }
-        int k=0;
-        int arr[]=new int[li.size()];
-        for(int i:li)
-        {
-            arr[k++]=i;
-        }
+       int arr[]=new int[li.size()];
+       int k=0;
+       for(int val:li)
+       {
+        arr[k++]=val;
+       }
         return arr;
+        
     }
 }
