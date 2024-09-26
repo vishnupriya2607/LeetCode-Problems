@@ -22,7 +22,6 @@ class Solution {
         {
             max3=num;
         }
-        System.out.println(max3);
        }
       return (max3 == null) ? max1 : max3;
 
