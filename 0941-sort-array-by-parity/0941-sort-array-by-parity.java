@@ -4,7 +4,7 @@ class Solution {
         int r=nums.length-1;
         while(l<=r)
         {
-            if(nums[l]%2!=0)
+            if((nums[l] & 1)!=0)
             {
                 int temp=nums[l];
                 nums[l]=nums[r];
