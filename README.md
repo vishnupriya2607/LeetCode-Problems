@@ -25,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0409-longest-palindrome](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0409-longest-palindrome) |
 | [0459-repeated-substring-pattern](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0459-repeated-substring-pattern) |
 | [0592-fraction-addition-and-subtraction](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0592-fraction-addition-and-subtraction) |
+| [0696-count-binary-substrings](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0696-count-binary-substrings) |
 | [0874-backspace-string-compare](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0874-backspace-string-compare) |
 | [1205-defanging-an-ip-address](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/1205-defanging-an-ip-address) |
 | [1297-maximum-number-of-balloons](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/1297-maximum-number-of-balloons) |
@@ -86,6 +87,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0349-intersection-of-two-arrays](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0392-is-subsequence) |
+| [0696-count-binary-substrings](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0696-count-binary-substrings) |
 | [0874-backspace-string-compare](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0874-backspace-string-compare) |
 | [0908-middle-of-the-linked-list](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0908-middle-of-the-linked-list) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
