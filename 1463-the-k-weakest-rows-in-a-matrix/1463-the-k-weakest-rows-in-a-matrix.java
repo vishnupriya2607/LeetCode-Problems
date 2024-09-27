@@ -1,6 +1,6 @@
 class Solution {
     public int[] kWeakestRows(int[][] mat, int k) {
-        int [][] sum=new int[mat.length][2];
+        HashMap<Integer,Integer> map=new HashMap<>();
        
         int sum1=0;
         for(int i=0;i<mat.length;i++)
@@ -8,19 +8,32 @@ class Solution {
             sum1=0;
             for(int j=0;j<mat[i].length;j++)
             {
-                sum1+=mat[i][j];
+                if(mat[i][j]==1)
+
+                sum1++;
+                else
+                break;
             }
-            sum[i][0]=sum1;
-            sum[i][1]=i;
+            map.put(i,sum1);
         }
-        Arrays.sort(sum, Comparator.comparingInt((int[] row) -> row[0])  
-                                            .thenComparingInt(row -> row[1]));  
+        int [] k1=new int[k];
+        int i=0;
+      List<Map.Entry<Integer, Integer>> sortedEntries = new ArrayList<>(map.entrySet());
         
-        int[] result = new int[k];
-        for (int i = 0; i < k; i++) {
-            result[i] = sum[i][1];
+        
+        sortedEntries.sort(Map.Entry.comparingByValue());
+        for (Map.Entry<Integer, Integer> entry : sortedEntries) {
+            if(k>0)
+            {
+            k1[i++]=entry.getKey();
+            k--;
+            }
+            else
+            {
+                break;
+            }
         }
-        
-        return result;
+     
+        return  k1;
     }
 }
