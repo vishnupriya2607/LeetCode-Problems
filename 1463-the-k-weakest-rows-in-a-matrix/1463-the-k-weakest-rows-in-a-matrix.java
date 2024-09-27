@@ -1,39 +1,35 @@
 class Solution {
     public int[] kWeakestRows(int[][] mat, int k) {
-        HashMap<Integer,Integer> map=new HashMap<>();
-       
-        int sum1=0;
+        int c=0;
+        int k1[]=new int[k];
         for(int i=0;i<mat.length;i++)
         {
-            sum1=0;
+            c=0;
             for(int j=0;j<mat[i].length;j++)
             {
                 if(mat[i][j]==1)
+                {
+                    c++;
+                }
+            }
+            mat[i][0]=c;
+            mat[i][1]=i;
+        }
+       for (int i = 0; i < mat.length - 1; i++) {
+            for (int j = 0; j < mat.length - i - 1; j++) {
+                if (mat[j][0] > mat[j + 1][0]) {
+               
+                    int[] temp = mat[j];
+                    mat[j] = mat[j + 1];
+                    mat[j + 1] = temp;
+                }
+            }
+        }
+        int[] kWeakestRows = new int[k];
+        for (int i = 0; i < k; i++) {
+            kWeakestRows[i] = mat[i][1]; 
+        }
 
-                sum1++;
-                else
-                break;
-            }
-            map.put(i,sum1);
-        }
-        int [] k1=new int[k];
-        int i=0;
-      List<Map.Entry<Integer, Integer>> sortedEntries = new ArrayList<>(map.entrySet());
-        
-        
-        sortedEntries.sort(Map.Entry.comparingByValue());
-        for (Map.Entry<Integer, Integer> entry : sortedEntries) {
-            if(k>0)
-            {
-            k1[i++]=entry.getKey();
-            k--;
-            }
-            else
-            {
-                break;
-            }
-        }
-     
-        return  k1;
+        return kWeakestRows;
     }
 }
