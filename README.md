@@ -72,6 +72,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0932-monotonic-array](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0932-monotonic-array) |
 | [0941-sort-array-by-parity](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0941-sort-array-by-parity) |
 | [1325-path-with-maximum-probability](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/1325-path-with-maximum-probability) |
+| [1463-the-k-weakest-rows-in-a-matrix](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1675-magnetic-force-between-two-balls](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/1675-magnetic-force-between-two-balls) |
 | [2035-count-sub-islands](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/2035-count-sub-islands) |
@@ -131,6 +132,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0435-non-overlapping-intervals](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0941-sort-array-by-parity](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0941-sort-array-by-parity) |
+| [1463-the-k-weakest-rows-in-a-matrix](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1675-magnetic-force-between-two-balls](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/1675-magnetic-force-between-two-balls) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
@@ -230,6 +232,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0264-ugly-number-ii](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0264-ugly-number-ii) |
 | [0347-top-k-frequent-elements](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0347-top-k-frequent-elements) |
 | [1325-path-with-maximum-probability](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/1325-path-with-maximum-probability) |
+| [1463-the-k-weakest-rows-in-a-matrix](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 ## Quickselect
 |  |
@@ -271,6 +274,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0079-word-search) |
+| [1463-the-k-weakest-rows-in-a-matrix](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [2035-count-sub-islands](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/2035-count-sub-islands) |
 ## Recursion
 |  |
@@ -312,6 +316,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0374-guess-number-higher-or-lower](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0374-guess-number-higher-or-lower) |
 | [0400-nth-digit](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0400-nth-digit) |
 | [0729-my-calendar-i](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0729-my-calendar-i) |
+| [1463-the-k-weakest-rows-in-a-matrix](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1675-magnetic-force-between-two-balls](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/1675-magnetic-force-between-two-balls) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Interactive
