@@ -16,7 +16,6 @@ class Solution {
         }
         for(int i=1;i<=t;i++)
         {
-            System.out.println(group[i-1]);
             result+=Math.min(group[i-1],group[i]);
         }
         return result;
