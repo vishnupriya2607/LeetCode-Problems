@@ -6,22 +6,15 @@ class Solution {
             map.put(num, map.getOrDefault(num, 0) + 1);
         }
     List<Map.Entry<Integer, Integer>> List = new ArrayList<>(map.entrySet());
-
-
-        List.sort((e1, e2) -> e2.getValue().compareTo(e1.getValue()));
-      for(int i=0;i<List.size();i++)
+ List.sort((e1, e2) -> e2.getValue().compareTo(e1.getValue()));
+  int[]a=new int[k];
+      for(int i=0;i<k;i++)
       {
-        if(k!=0)
-        {
-            li.add(List.get(i).getKey());
-            k--;
+            a[i]=(List.get(i).getKey());
+
         }
-      }
-      int[]a=new int[li.size()];
-        for(int i=0;i<li.size();i++)
-        {
-           a[i]=li.get(i);
-        }
+      
+     
         return a;
       }
     
