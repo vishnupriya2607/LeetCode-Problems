@@ -4,6 +4,7 @@ class Solution {
         {
             return false;
         }
+      
         int count=0;
         for(int i=0;i<s.length();i++)
         {
@@ -16,7 +17,8 @@ class Solution {
         {
             return false;
         }
-        int a[]=new int[26];
+        
+           int a[]=new int[26];
         int b[]=new int[26];
         for(char c:s.toCharArray())
         {
@@ -27,6 +29,7 @@ class Solution {
             b[c-'a']++;
         }
        
+      
         for(int i=0;i<26;i++)
         {
             if(a[i]!=b[i])
@@ -34,7 +37,7 @@ class Solution {
                 return false;
             }
         }
-        if(count==2)
+         if(count==2)
         {
             return true;
         }
@@ -45,6 +48,7 @@ class Solution {
                 return true;
             }
         }
+       
         return false;
     }
 }
