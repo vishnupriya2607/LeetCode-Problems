@@ -45,6 +45,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0074-search-a-2d-matrix](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0075-sort-colors) |
 | [0079-word-search](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0079-word-search) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0136-single-number](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0136-single-number) |
@@ -186,6 +187,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Tree
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0145-binary-tree-postorder-traversal) |
 ## Depth-First Search
 |  |
@@ -196,6 +198,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Tree
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0145-binary-tree-postorder-traversal) |
 ## Dynamic Programming
 |  |
@@ -224,6 +227,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0053-maximum-subarray) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0215-kth-largest-element-in-an-array](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0347-top-k-frequent-elements) |
 | [1873-longest-nice-substring](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/1873-longest-nice-substring) |
@@ -377,4 +381,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0729-my-calendar-i](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0729-my-calendar-i) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 <!---LeetCode Topics End-->
