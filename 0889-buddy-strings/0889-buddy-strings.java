@@ -12,6 +12,10 @@ class Solution {
                 count++;
             }
         }
+         if(count>2)
+        {
+            return false;
+        }
         int a[]=new int[26];
         int b[]=new int[26];
         for(char c:s.toCharArray())
@@ -22,10 +26,7 @@ class Solution {
         {
             b[c-'a']++;
         }
-        if(count>2)
-        {
-            return false;
-        }
+       
         for(int i=0;i<26;i++)
         {
             if(a[i]!=b[i])
