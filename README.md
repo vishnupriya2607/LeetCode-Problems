@@ -79,6 +79,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1325-path-with-maximum-probability](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/1325-path-with-maximum-probability) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+| [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1675-magnetic-force-between-two-balls](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/1675-magnetic-force-between-two-balls) |
 | [2035-count-sub-islands](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/2035-count-sub-islands) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
@@ -122,6 +123,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0889-buddy-strings](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0889-buddy-strings) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1297-maximum-number-of-balloons](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/1297-maximum-number-of-balloons) |
+| [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1873-longest-nice-substring](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/1873-longest-nice-substring) |
 ## Sorting
 |  |
@@ -181,6 +183,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0347-top-k-frequent-elements) |
 | [1297-maximum-number-of-balloons](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/1297-maximum-number-of-balloons) |
+| [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 ## Simulation
 |  |
 | ------- |
