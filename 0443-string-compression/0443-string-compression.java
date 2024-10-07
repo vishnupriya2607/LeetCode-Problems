@@ -3,7 +3,6 @@ import java.util.Map;
 
 class Solution {
     public int compress(char[] chars) {
-        HashMap<Character, Integer> map = new HashMap<>();
         int count = 1; 
         int writeIndex = 0; 
         for (int i = 0; i < chars.length; i++) {
