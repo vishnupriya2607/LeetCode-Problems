@@ -33,6 +33,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1205-defanging-an-ip-address](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/1205-defanging-an-ip-address) |
 | [1297-maximum-number-of-balloons](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/1297-maximum-number-of-balloons) |
 | [1873-longest-nice-substring](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/1873-longest-nice-substring) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Array
 |  |
 | ------- |
@@ -187,6 +188,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0682-baseball-game](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0682-baseball-game) |
 | [0874-backspace-string-compare](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0874-backspace-string-compare) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Trie
 |  |
 | ------- |
@@ -205,6 +207,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0592-fraction-addition-and-subtraction](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0592-fraction-addition-and-subtraction) |
 | [0682-baseball-game](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0682-baseball-game) |
 | [0874-backspace-string-compare](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0874-backspace-string-compare) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Tree
 |  |
 | ------- |
