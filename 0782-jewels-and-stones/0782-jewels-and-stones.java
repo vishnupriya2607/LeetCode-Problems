@@ -6,9 +6,9 @@ class Solution {
             map.add(ch);
         }
         int sum=0;
-        for(int i=0;i<stones.length();i++)
+        for(char ch:stones.toCharArray())
         {
-            if(map.contains(stones.charAt(i)))
+            if(map.contains(ch))
             {
             sum++;
             }
