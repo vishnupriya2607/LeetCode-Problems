@@ -1,29 +1,27 @@
+import java.util.Arrays;
+import java.util.Comparator;
+
 class Solution {
     public String[] findRelativeRanks(int[] score) {
-        ArrayList<Integer> al = new ArrayList<>();
-        String[] res = new String[score.length];
-        for(int ele :score)
-        al.add(ele);
-        Collections.sort(al);
-        HashMap<Integer,Integer> hm = new HashMap<>();
-        int r=0;
-        for(int i = al.size()-1;i>=0;i--)
-        {
-            hm.put(al.get(i),r);
-            r++;
+        int n = score.length;
+        String[] result = new String[n];
+        Integer[] indices = new Integer[n];
+        for (int i = 0; i < n; i++) {
+            indices[i] = i;
         }
-        for(int i =0;i<score.length;i++)
-        {
-            int rank = hm.get(score[i]);
-            if(rank==0)
-            res[i]="Gold Medal";
-            else if(rank==1)
-            res[i]="Silver Medal";
-            else if(rank==2)
-            res[i]="Bronze Medal";
-            else
-            res[i]=String.valueOf(rank+1);
+        Arrays.sort(indices, (a, b) -> score[b] - score[a]);
+        for (int i = 0; i < n; i++) {
+            if (i == 0) {
+                result[indices[i]] = "Gold Medal";
+            } else if (i == 1) {
+                result[indices[i]] = "Silver Medal";
+            } else if (i == 2) {
+                result[indices[i]] = "Bronze Medal";
+            } else {
+                result[indices[i]] = String.valueOf(i + 1);
+            }
         }
-        return res;
+
+        return result;
     }
 }
