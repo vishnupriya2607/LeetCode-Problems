@@ -91,6 +91,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1694-make-sum-divisible-by-p](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/1694-make-sum-divisible-by-p) |
 | [2035-count-sub-islands](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/2035-count-sub-islands) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2600-maximum-tastiness-of-candy-basket](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/2600-maximum-tastiness-of-candy-basket) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Two Pointers
 |  |
@@ -164,6 +165,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1675-magnetic-force-between-two-balls](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/1675-magnetic-force-between-two-balls) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2600-maximum-tastiness-of-candy-basket](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/2600-maximum-tastiness-of-candy-basket) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Math
 |  |
@@ -257,6 +259,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0435-non-overlapping-intervals](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [2600-maximum-tastiness-of-candy-basket](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/2600-maximum-tastiness-of-candy-basket) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -361,6 +364,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0729-my-calendar-i](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0729-my-calendar-i) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1675-magnetic-force-between-two-balls](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/1675-magnetic-force-between-two-balls) |
+| [2600-maximum-tastiness-of-candy-basket](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/2600-maximum-tastiness-of-candy-basket) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Interactive
 |  |
