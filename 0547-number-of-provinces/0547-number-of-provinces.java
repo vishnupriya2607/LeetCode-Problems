@@ -19,7 +19,7 @@ class Solution {
                 }
             }
         }
-        System.out.println(adj);
+        
         int c=0;
         for(int i=0;i<m;i++)
         {
