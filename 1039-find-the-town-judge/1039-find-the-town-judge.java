@@ -10,7 +10,7 @@ class Solution {
             a2[b]++;
         }
         int out=-1;
-       for(int i=0;i<n+1;i++)
+       for(int i=1;i<n+1;i++)
        {
         if(a1[i]==0 && a2[i]==n-1)
         {
