@@ -1,47 +1,49 @@
 class Solution {
+
     public int findCircleNum(int[][] isConnected) {
-        int m=isConnected.length;
-        int n=isConnected[0].length;
-        List<List<Integer>> adj=new ArrayList<>();
-        int vis[]=new int[m];
-        for(int i=0;i<m;i++)
-        {
-            adj.add(new ArrayList());
-        }
-        for(int i=0;i<m;i++)
-        {
-            for(int j=0;j<n;j++)
-            {
-                if(i==j)continue;
-                if(isConnected[i][j]==1)
-                {
-                    adj.get(i).add(j);
+        int n=isConnected.length;
+        int c=0;
+        sol d=new sol(n+1);
+        for (int i = 0; i < n; i++) {
+            for (int j = i + 1; j < n; j++) {
+                if (isConnected[i][j] == 1) {
+                    d.union(i, j);
                 }
             }
         }
-        
-        int c=0;
-        for(int i=0;i<m;i++)
+        for(int i=1;i<=n;i++)
         {
-            if(vis[i]!=1)
+            if(d.find(i)==i)
             {
                 c++;
-                dfs(i,adj,vis);
             }
         }
         return c;
+       
     }
-    public static void dfs(int node,List<List<Integer>> adj,int []vis)
+}
+class sol
+{
+     static int []parent;
+    public sol(int n)
     {
-        vis[node]=1;
-        for(int i:adj.get(node))
-        {
-            if(vis[i]!=1)
-            {
-            dfs(i,adj,vis);
-            }
-
+         parent=new int[n];
+        for(int i=0;i<n;i++){
+            parent[i]=i;
         }
+    
     }
-
+    public int find(int k)
+    {
+        if(k==parent[k])return k;
+         return find(parent[k]);
+    }
+    public boolean union(int s,int d)
+    {
+        int x=find(s);
+        int y=find(d);
+        if(x==y)return false;
+        parent[y]=x;
+        return true;
+    }
 }
