@@ -234,6 +234,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0145-binary-tree-postorder-traversal](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0547-number-of-provinces](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0547-number-of-provinces) |
+| [0684-redundant-connection](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0684-redundant-connection) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1073-number-of-enclaves](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/1073-number-of-enclaves) |
 | [2035-count-sub-islands](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/2035-count-sub-islands) |
@@ -305,6 +306,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0547-number-of-provinces) |
+| [0684-redundant-connection](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0684-redundant-connection) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1039-find-the-town-judge](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/1039-find-the-town-judge) |
 | [1325-path-with-maximum-probability](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/1325-path-with-maximum-probability) |
@@ -344,12 +346,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0547-number-of-provinces) |
+| [0684-redundant-connection](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0684-redundant-connection) |
 | [1073-number-of-enclaves](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/1073-number-of-enclaves) |
 | [2035-count-sub-islands](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/2035-count-sub-islands) |
 ## Union Find
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0547-number-of-provinces) |
+| [0684-redundant-connection](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0684-redundant-connection) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1073-number-of-enclaves](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/1073-number-of-enclaves) |
 | [2035-count-sub-islands](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/2035-count-sub-islands) |
