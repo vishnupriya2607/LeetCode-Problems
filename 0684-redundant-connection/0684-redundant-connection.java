@@ -35,7 +35,7 @@ class sol
         int x=find(s);
         int y=find(d);
         if(x==y)return false;
-        parent[x]=y;
+        parent[y]=x;
         return true;
     }
 }
