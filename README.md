@@ -342,6 +342,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0002-add-two-numbers) |
+| [0025-reverse-nodes-in-k-group](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0025-reverse-nodes-in-k-group) |
 | [0050-powx-n](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0050-powx-n) |
 | [0273-integer-to-english-words](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0273-integer-to-english-words) |
 | [0390-elimination-game](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0390-elimination-game) |
@@ -365,6 +366,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0002-add-two-numbers](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0002-add-two-numbers) |
 | [0023-merge-k-sorted-lists](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0023-merge-k-sorted-lists) |
+| [0025-reverse-nodes-in-k-group](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0025-reverse-nodes-in-k-group) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0908-middle-of-the-linked-list](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0908-middle-of-the-linked-list) |
 ## Memoization
