@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0179-largest-number](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0179-largest-number) |
 | [0205-isomorphic-strings](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0205-isomorphic-strings) |
 | [0214-shortest-palindrome](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0214-shortest-palindrome) |
+| [0224-basic-calculator](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0224-basic-calculator) |
 | [0242-valid-anagram](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0242-valid-anagram) |
 | [0273-integer-to-english-words](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0273-integer-to-english-words) |
 | [0290-word-pattern](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0290-word-pattern) |
@@ -185,6 +186,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0067-add-binary](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0189-rotate-array) |
+| [0224-basic-calculator](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0224-basic-calculator) |
 | [0258-add-digits](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0258-add-digits) |
 | [0264-ugly-number-ii](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0268-missing-number) |
@@ -203,6 +205,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0042-trapping-rain-water](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0071-simplify-path) |
 | [0145-binary-tree-postorder-traversal](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0145-binary-tree-postorder-traversal) |
+| [0224-basic-calculator](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0224-basic-calculator) |
 | [0496-next-greater-element-i](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0682-baseball-game) |
 | [0874-backspace-string-compare](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0874-backspace-string-compare) |
@@ -348,6 +351,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0002-add-two-numbers](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0002-add-two-numbers) |
 | [0025-reverse-nodes-in-k-group](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0025-reverse-nodes-in-k-group) |
 | [0050-powx-n](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0050-powx-n) |
+| [0224-basic-calculator](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0224-basic-calculator) |
 | [0273-integer-to-english-words](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0273-integer-to-english-words) |
 | [0390-elimination-game](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0390-elimination-game) |
 ## Breadth-First Search
