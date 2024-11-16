@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0022-generate-parentheses](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0022-generate-parentheses) |
 | [0038-count-and-say](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0038-count-and-say) |
 | [0058-length-of-last-word](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0058-length-of-last-word) |
+| [0065-valid-number](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0065-valid-number) |
 | [0067-add-binary](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0071-simplify-path) |
 | [0079-word-search](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0079-word-search) |
