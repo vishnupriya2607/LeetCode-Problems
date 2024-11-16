@@ -185,6 +185,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0002-add-two-numbers](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0007-reverse-integer) |
 | [0050-powx-n](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0050-powx-n) |
+| [0060-permutation-sequence](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0060-permutation-sequence) |
 | [0067-add-binary](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0189-rotate-array) |
@@ -356,6 +357,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0002-add-two-numbers](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0002-add-two-numbers) |
 | [0025-reverse-nodes-in-k-group](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0025-reverse-nodes-in-k-group) |
 | [0050-powx-n](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0050-powx-n) |
+| [0060-permutation-sequence](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0060-permutation-sequence) |
 | [0224-basic-calculator](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0224-basic-calculator) |
 | [0273-integer-to-english-words](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0273-integer-to-english-words) |
 | [0390-elimination-game](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0390-elimination-game) |
