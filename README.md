@@ -45,6 +45,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0001-two-sum) |
 | [0027-remove-element](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0035-search-insert-position) |
+| [0036-valid-sudoku](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0041-first-missing-positive) |
@@ -130,6 +131,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0001-two-sum) |
+| [0036-valid-sudoku](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0041-first-missing-positive) |
 | [0073-set-matrix-zeroes](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0169-majority-element) |
@@ -349,6 +351,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0036-valid-sudoku) |
 | [0073-set-matrix-zeroes](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0079-word-search) |
