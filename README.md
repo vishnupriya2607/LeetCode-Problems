@@ -25,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0242-valid-anagram](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0242-valid-anagram) |
 | [0273-integer-to-english-words](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0273-integer-to-english-words) |
 | [0290-word-pattern](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0290-word-pattern) |
+| [0301-remove-invalid-parentheses](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0301-remove-invalid-parentheses) |
 | [0392-is-subsequence](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0392-is-subsequence) |
 | [0409-longest-palindrome](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0409-longest-palindrome) |
 | [0443-string-compression](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0443-string-compression) |
@@ -350,6 +351,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0052-n-queens-ii](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0052-n-queens-ii) |
 | [0078-subsets](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0079-word-search) |
+| [0301-remove-invalid-parentheses](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0301-remove-invalid-parentheses) |
 ## Matrix
 |  |
 | ------- |
@@ -373,6 +375,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Breadth-First Search
 |  |
 | ------- |
+| [0301-remove-invalid-parentheses](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0301-remove-invalid-parentheses) |
 | [0547-number-of-provinces](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0684-redundant-connection) |
 | [1073-number-of-enclaves](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/1073-number-of-enclaves) |
