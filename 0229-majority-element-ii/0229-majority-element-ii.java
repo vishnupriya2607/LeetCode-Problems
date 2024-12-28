@@ -1,6 +1,6 @@
 class Solution {
     public List<Integer> majorityElement(int[] nums) {
-        Arrays.sort(nums);
+       // Arrays.sort(nums);
         int n=nums.length;
         int max=n/3;
         List<Integer> li=new ArrayList<>();
