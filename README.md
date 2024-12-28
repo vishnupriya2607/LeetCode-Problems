@@ -198,6 +198,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0189-rotate-array](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0189-rotate-array) |
 | [0224-basic-calculator](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0224-basic-calculator) |
 | [0258-add-digits](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0258-add-digits) |
+| [0263-ugly-number](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0263-ugly-number) |
 | [0264-ugly-number-ii](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0268-missing-number) |
 | [0273-integer-to-english-words](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0273-integer-to-english-words) |
