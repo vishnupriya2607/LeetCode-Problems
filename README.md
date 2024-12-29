@@ -98,6 +98,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0941-sort-array-by-parity](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0941-sort-array-by-parity) |
 | [1039-find-the-town-judge](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/1039-find-the-town-judge) |
 | [1073-number-of-enclaves](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/1073-number-of-enclaves) |
+| [1137-height-checker](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/1137-height-checker) |
 | [1256-rank-transform-of-an-array](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/1256-rank-transform-of-an-array) |
 | [1325-path-with-maximum-probability](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/1325-path-with-maximum-probability) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
@@ -189,6 +190,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0506-relative-ranks](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0506-relative-ranks) |
 | [0941-sort-array-by-parity](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0941-sort-array-by-parity) |
+| [1137-height-checker](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/1137-height-checker) |
 | [1256-rank-transform-of-an-array](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/1256-rank-transform-of-an-array) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
@@ -524,4 +526,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0295-find-median-from-data-stream) |
+## Counting Sort
+|  |
+| ------- |
+| [1137-height-checker](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/1137-height-checker) |
 <!---LeetCode Topics End-->
