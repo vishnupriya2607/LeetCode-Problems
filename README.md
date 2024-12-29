@@ -223,6 +223,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0592-fraction-addition-and-subtraction](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0592-fraction-addition-and-subtraction) |
 | [0909-stone-game](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0909-stone-game) |
 | [1013-fibonacci-number](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/1013-fibonacci-number) |
+| [1585-the-kth-factor-of-n](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/1585-the-kth-factor-of-n) |
 ## Stack
 |  |
 | ------- |
@@ -471,6 +472,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0258-add-digits) |
+| [1585-the-kth-factor-of-n](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/1585-the-kth-factor-of-n) |
 ## Reservoir Sampling
 |  |
 | ------- |
