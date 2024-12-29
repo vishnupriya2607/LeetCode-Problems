@@ -2,7 +2,8 @@ class Solution {
     public List<List<Integer>> fourSum(int[] candidates, int target) {
         List<List<Integer>> ans = new ArrayList<>();
         Arrays.sort(candidates); // Sort the array to simplify duplicate handling
-        fun(0, candidates, (long) target, new ArrayList<>(), ans);
+
+        fun(0, candidates, (long)target, new ArrayList<>(), ans);
         return ans;
     }
 
@@ -19,7 +20,7 @@ class Solution {
             // Skip duplicates
             if (i > ind && arr[i] == arr[i - 1]) continue;
 
-            // Early exit: If the smallest remaining numbers cannot form a valid sum
+            // If the current number exceeds the target (since array is sorted), break
             if (arr[i] > t && t > 0) break;
 
             li.add(arr[i]); // Add the current element
