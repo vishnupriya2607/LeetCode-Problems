@@ -21,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0151-reverse-words-in-a-string](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0179-largest-number) |
 | [0205-isomorphic-strings](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0205-isomorphic-strings) |
+| [0208-implement-trie-prefix-tree](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0208-implement-trie-prefix-tree) |
 | [0214-shortest-palindrome](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0214-shortest-palindrome) |
 | [0224-basic-calculator](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0224-basic-calculator) |
 | [0242-valid-anagram](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0242-valid-anagram) |
@@ -161,6 +162,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0169-majority-element](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0205-isomorphic-strings) |
+| [0208-implement-trie-prefix-tree](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0229-majority-element-ii) |
@@ -263,6 +265,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0014-longest-common-prefix) |
+| [0208-implement-trie-prefix-tree](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0208-implement-trie-prefix-tree) |
 | [1397-search-suggestions-system](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/1397-search-suggestions-system) |
 ## Counting
 |  |
@@ -527,6 +530,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Design
 |  |
 | ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0208-implement-trie-prefix-tree) |
 | [0295-find-median-from-data-stream](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0295-find-median-from-data-stream) |
 | [0303-range-sum-query-immutable](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0303-range-sum-query-immutable) |
 | [0729-my-calendar-i](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0729-my-calendar-i) |
