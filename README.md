@@ -99,6 +99,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0506-relative-ranks](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0506-relative-ranks) |
 | [0682-baseball-game](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0682-baseball-game) |
 | [0729-my-calendar-i](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0729-my-calendar-i) |
+| [0739-daily-temperatures](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0739-daily-temperatures) |
 | [0907-koko-eating-bananas](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0907-koko-eating-bananas) |
 | [0909-stone-game](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0909-stone-game) |
 | [0932-monotonic-array](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0932-monotonic-array) |
@@ -249,6 +250,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0224-basic-calculator](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0224-basic-calculator) |
 | [0496-next-greater-element-i](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0682-baseball-game) |
+| [0739-daily-temperatures](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0739-daily-temperatures) |
 | [0874-backspace-string-compare](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0874-backspace-string-compare) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/2800-minimum-string-length-after-removing-substrings) |
@@ -359,6 +361,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0042-trapping-rain-water](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0739-daily-temperatures) |
 ## Graph
 |  |
 | ------- |
