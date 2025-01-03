@@ -504,6 +504,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0287-find-the-duplicate-number](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0464-can-i-win](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0464-can-i-win) |
+| [1441-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/1441-minimum-flips-to-make-a-or-b-equal-to-c) |
 | [1873-longest-nice-substring](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/1873-longest-nice-substring) |
 ## Number Theory
 |  |
