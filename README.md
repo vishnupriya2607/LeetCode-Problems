@@ -317,6 +317,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0198-house-robber](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0198-house-robber) |
 | [0264-ugly-number-ii](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0264-ugly-number-ii) |
 | [0312-burst-balloons](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0312-burst-balloons) |
+| [0338-counting-bits](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0392-is-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0435-non-overlapping-intervals) |
 | [0464-can-i-win](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0464-can-i-win) |
@@ -502,6 +503,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0231-power-of-two](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0287-find-the-duplicate-number) |
+| [0338-counting-bits](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0338-counting-bits) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0464-can-i-win](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0464-can-i-win) |
 | [1441-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/1441-minimum-flips-to-make-a-or-b-equal-to-c) |
