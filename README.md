@@ -113,6 +113,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1675-magnetic-force-between-two-balls](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/1675-magnetic-force-between-two-balls) |
 | [1694-make-sum-divisible-by-p](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/1694-make-sum-divisible-by-p) |
 | [2035-count-sub-islands](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/2035-count-sub-islands) |
+| [2358-number-of-ways-to-split-array](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/2358-number-of-ways-to-split-array) |
 | [2388-replace-elements-in-an-array](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/2388-replace-elements-in-an-array) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2600-maximum-tastiness-of-candy-basket](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/2600-maximum-tastiness-of-candy-basket) |
@@ -467,6 +468,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0303-range-sum-query-immutable](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0303-range-sum-query-immutable) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1694-make-sum-divisible-by-p](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/1694-make-sum-divisible-by-p) |
+| [2358-number-of-ways-to-split-array](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/2358-number-of-ways-to-split-array) |
 ## String Matching
 |  |
 | ------- |
