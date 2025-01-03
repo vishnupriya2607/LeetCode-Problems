@@ -43,6 +43,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1297-maximum-number-of-balloons](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/1297-maximum-number-of-balloons) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1873-longest-nice-substring](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/1873-longest-nice-substring) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Array
 |  |
@@ -117,6 +118,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2388-replace-elements-in-an-array](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/2388-replace-elements-in-an-array) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2600-maximum-tastiness-of-candy-basket](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/2600-maximum-tastiness-of-candy-basket) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Two Pointers
 |  |
@@ -469,6 +471,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1537-maximum-score-after-splitting-a-string](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1694-make-sum-divisible-by-p](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/1694-make-sum-divisible-by-p) |
 | [2358-number-of-ways-to-split-array](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/2358-number-of-ways-to-split-array) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/2691-count-vowel-strings-in-ranges) |
 ## String Matching
 |  |
 | ------- |
