@@ -41,6 +41,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1205-defanging-an-ip-address](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/1205-defanging-an-ip-address) |
 | [1297-maximum-number-of-balloons](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/1297-maximum-number-of-balloons) |
+| [1397-search-suggestions-system](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/1397-search-suggestions-system) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1873-longest-nice-substring](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/1873-longest-nice-substring) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/2691-count-vowel-strings-in-ranges) |
@@ -110,6 +111,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1137-height-checker](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/1137-height-checker) |
 | [1256-rank-transform-of-an-array](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/1256-rank-transform-of-an-array) |
 | [1325-path-with-maximum-probability](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/1325-path-with-maximum-probability) |
+| [1397-search-suggestions-system](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/1397-search-suggestions-system) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
@@ -208,6 +210,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0941-sort-array-by-parity](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0941-sort-array-by-parity) |
 | [1137-height-checker](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/1137-height-checker) |
 | [1256-rank-transform-of-an-array](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/1256-rank-transform-of-an-array) |
+| [1397-search-suggestions-system](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/1397-search-suggestions-system) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1675-magnetic-force-between-two-balls](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/1675-magnetic-force-between-two-balls) |
@@ -260,6 +263,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0014-longest-common-prefix) |
+| [1397-search-suggestions-system](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/1397-search-suggestions-system) |
 ## Counting
 |  |
 | ------- |
@@ -348,6 +352,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0347-top-k-frequent-elements](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0347-top-k-frequent-elements) |
 | [0506-relative-ranks](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0506-relative-ranks) |
 | [1325-path-with-maximum-probability](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/1325-path-with-maximum-probability) |
+| [1397-search-suggestions-system](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/1397-search-suggestions-system) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 ## Quickselect
@@ -461,6 +466,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0400-nth-digit](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0400-nth-digit) |
 | [0729-my-calendar-i](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0729-my-calendar-i) |
 | [0907-koko-eating-bananas](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/0907-koko-eating-bananas) |
+| [1397-search-suggestions-system](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/1397-search-suggestions-system) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1675-magnetic-force-between-two-balls](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/1675-magnetic-force-between-two-balls) |
 | [2600-maximum-tastiness-of-candy-basket](https://github.com/vishnupriya2607/LeetCode-Problems/tree/master/2600-maximum-tastiness-of-candy-basket) |
